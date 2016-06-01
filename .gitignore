@@ -2,3 +2,9 @@
 config.local.php
 
 config.php
+
+var/cache
+
+var/cache/*
+
+blog/wp-config.php
