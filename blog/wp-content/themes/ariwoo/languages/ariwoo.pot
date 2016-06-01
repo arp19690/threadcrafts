@@ -1,0 +1,936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ariwoo\n"
+"POT-Creation-Date: 2015-10-12 01:02+0530\n"
+"PO-Revision-Date: 2015-10-12 01:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:25
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:43
+msgid "Blog Archives"
+msgstr ""
+
+#: attachment.php:26
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:29
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: attachment.php:34
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: attachment.php:40
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: attachment.php:46
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:46
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:51 attachment.php:91
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:89
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: attachment.php:90
+msgid "Pages:"
+msgstr ""
+
+#: author.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:37
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:29
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:13
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:26
+msgid "One Response"
+msgstr ""
+
+#: comments.php:27
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "so far."
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:51
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:82
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:91
+msgid "E-mail*"
+msgstr ""
+
+#: comments.php:95
+msgid "Comment*"
+msgstr ""
+
+#: footer.php:16
+msgid "About Company"
+msgstr ""
+
+#: footer.php:19
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet "
+"purus rutrum, vestibulum urna a, elementum nulla. Etiam pharetra nisi sit "
+"amet sapien malesuada, non hendrerit arcu pellentesque."
+msgstr ""
+
+#: footer.php:26
+msgid "Recent Post"
+msgstr ""
+
+#: footer.php:45
+msgid "Sample Content"
+msgstr ""
+
+#: footer.php:47
+msgid ""
+"Nam eget placerat justo. Suspendisse quis hendrerit nisl. Nullam eget "
+"malesuada dui. Phasellus auctor, justo eu euismod vestibulum, ex nisl mollis "
+"elit, ut efficitur mauris turpis ullamcorper nisl. Proin eleifend erat "
+"tellus, at feugiat mi pulvinar at."
+msgstr ""
+
+#: footer.php:53
+msgid "Get in Touch"
+msgstr ""
+
+#: footer.php:60
+msgid "Address:"
+msgstr ""
+
+#: footer.php:62
+msgid ""
+"ARINIO GROUP <br /> WZ-290,Plot No.-8, Commodo <br /> Aenean Cursus-100002"
+msgstr ""
+
+#: footer.php:92
+msgid "Copyright &#169; 2015 All Rights Reserved."
+msgstr ""
+
+#: footer.php:94
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:94
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:94
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:94
+msgid "Arinio"
+msgstr ""
+
+#: functions.php:32
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:33
+msgid "Secondary menu  for footer menu"
+msgstr ""
+
+#: functions.php:122
+msgid "Home"
+msgstr ""
+
+#: functions.php:126
+msgid "attachment:"
+msgstr ""
+
+#: functions.php:136
+msgid "Category By:"
+msgstr ""
+
+#: functions.php:155
+msgid "Search Results for..."
+msgstr ""
+
+#: functions.php:161 functions.php:162 functions.php:163
+msgid "Archive for "
+msgstr ""
+
+#: functions.php:164
+msgid "Author Archive for "
+msgstr ""
+
+#: functions.php:164
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: functions.php:168
+msgid "Search Results for \""
+msgstr ""
+
+#: functions.php:187 functions.php:189
+msgid ", "
+msgstr ""
+
+#: functions.php:200
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:206 functions.php:208
+#, php-format
+msgid ""
+"<div class=\"post-category\"> Posted in : %1$s  on %3$s </div><div class="
+"\"post-author\"> by : %4$s </div> <div class=\"post-comment\"> Comments: <a "
+"href=\"#\">"
+msgstr ""
+
+#: functions.php:210
+#, php-format
+msgid ""
+"<div class=\"post-category\"> Posted on : %3$s </div><div class=\"post-author"
+"\"> by : %4$s </div> <div class=\"post-comment\"> Comments: <a href=\"#\">"
+msgstr ""
+
+#: functions.php:238
+msgid "Content Sidebar"
+msgstr ""
+
+#: functions.php:240
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:248
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:250
+msgid "Appears on footer side"
+msgstr ""
+
+#: functions.php:281
+msgid "Read more"
+msgstr ""
+
+#: functions.php:337
+msgid "Enter Your Comments"
+msgstr ""
+
+#: header.php:46
+msgid "NAVIGATION"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:210
+msgid "AR Theme Details"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:215
+msgid "Thank you for using Ariwoo Theme :)"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:219
+msgid "View Theme Demo"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:223
+msgid ""
+"You can see more feature & functionality in our PRO Virsion. Watch the Demo "
+"by clicking the link below."
+msgstr ""
+
+#: inc/ariwo-admin_page.php:227 inc/customizer.php:32
+msgid "View Demo"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:231
+msgid "Get Pro Free This Theme"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:235
+msgid ""
+"If you want to get Pro version of this theme Totally Free. Click the link "
+"below."
+msgstr ""
+
+#: inc/ariwo-admin_page.php:239
+msgid "Read More"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:243
+msgid "View More Our Themes"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:247
+msgid ""
+"Want to see more our themes you simply visit our site. Click the link below."
+msgstr ""
+
+#: inc/ariwo-admin_page.php:251
+msgid "Visit Site"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:255
+msgid "Get Ariwoo PRO Theme! Just $19"
+msgstr ""
+
+#: inc/ariwo-admin_page.php:259
+msgid ""
+"You are using the Ariwoo, Free Version of Ariwoo Pro Theme. Upgrade to Pro "
+"for extra features like Home Page Unlimited Slider, Work Gallery, Team "
+"section, Client Section, Contact Page and many more Page Templates, Social "
+"Link Section, Life time theme support and much more."
+msgstr ""
+
+#: inc/ariwo-admin_page.php:270
+msgid "Upgrade to Ariwoo PRO"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Get Ariwoo PRO Theme!  Just $19"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Upgrade to Ariwoo PRO Theme"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "View More our themes"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Free Support"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Get Free Pro Version"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Ariwoo Support"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid ""
+"You are using the Ariwoo, Free Version of Ariwoo Pro Theme. Upgrade to Pro "
+"for extra features like Home Page Unlimited Slider, Work ,Gallery, Team "
+"section, Client Section ,Social Link Section and  Life time theme support "
+"and much more. "
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Ariwoo Upgrade"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Basic Setting"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "This Is a Basic Setting Section For Frontpage"
+msgstr ""
+
+#: inc/customizer.php:106 theme-option/ariniothemes.php:115
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:117 theme-option/ariniothemes.php:129
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:134 theme-option/ariniothemes.php:168
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:150 theme-option/ariniothemes.php:179
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Slider 1"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Slider 2"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "You can upload here images for slider"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "File Upload"
+msgstr ""
+
+#: inc/customizer.php:255 inc/customizer.php:390 inc/customizer.php:395
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Slider Title"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Slider Sub Title"
+msgstr ""
+
+#: inc/customizer.php:296 inc/customizer.php:407
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Slider Description"
+msgstr ""
+
+#: inc/customizer.php:334 page-front.php:122
+msgid "Icon 1"
+msgstr ""
+
+#: inc/customizer.php:335 page-front.php:123
+msgid "Icon 2"
+msgstr ""
+
+#: inc/customizer.php:336 page-front.php:124
+msgid "Icon 3"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Services Setting"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid ""
+"This is a Services settings section to change the servise section Details."
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Font class Name"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Class Name"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Services Description"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer.php:456 theme-option/ariniothemes.php:339
+msgid "Main Heading"
+msgstr ""
+
+#: index.php:47 loop.php:30 search.php:48 single.php:42
+msgid "No Comments."
+msgstr ""
+
+#: index.php:48 loop.php:31 search.php:49 single.php:43
+msgid "Comment: 1"
+msgstr ""
+
+#: index.php:49 loop.php:32 search.php:50 single.php:44
+msgid "Comments: %"
+msgstr ""
+
+#: loop.php:44 single.php:60
+msgid "Sorry no post matched your criteria"
+msgstr ""
+
+#: page-front.php:39
+msgid "Stylish Page Theme"
+msgstr ""
+
+#: page-front.php:43
+msgid "Voluptate Velit Esse - Get Started Today!"
+msgstr ""
+
+#: page-front.php:48
+msgid ""
+"Erat dolor purus turpis hymenaeos vel luctus integer consectetuer porttitor "
+"ut."
+msgstr ""
+
+#: page-front.php:135
+msgid "Our Services"
+msgstr ""
+
+#: page-front.php:150
+msgid "Web Development"
+msgstr ""
+
+#: page-front.php:151
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:63
+msgid "No Results Found"
+msgstr ""
+
+#: sidebar.php:6
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Categories"
+msgstr ""
+
+#: tag.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: theme-option/ariniothemes.php:70
+msgid "Arinio Themes Options"
+msgstr ""
+
+#: theme-option/ariniothemes.php:71
+msgid "AR Options"
+msgstr ""
+
+#: theme-option/ariniothemes.php:89
+msgid "Ariwoo Theme Options"
+msgstr ""
+
+#: theme-option/ariniothemes.php:91
+msgid "Options saved"
+msgstr ""
+
+#: theme-option/ariniothemes.php:96
+msgid "Get Ariwoo PRO Theme!  Just $21"
+msgstr ""
+
+#: theme-option/ariniothemes.php:97
+msgid ""
+"You are using the Ariwoo, Free Version of Ariwoo Pro Theme. Upgrade to Pro "
+"for extra features like Home Page Unlimited Slider, Work Gallery, Team "
+"section, Client Section and many more Page Templates, Social Link Section, "
+"Life time theme support and much more."
+msgstr ""
+
+#: theme-option/ariniothemes.php:98
+msgid "Upgrade to Ariwoo PRO Theme here >>"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:113
+msgid "Basic Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:209
+msgid "Slider Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:337
+msgid "Services Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:449
+msgid "About us Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:501
+msgid "Contact Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:101 theme-option/ariniothemes.php:529
+msgid "Footer Settings"
+msgstr ""
+
+#: theme-option/ariniothemes.php:119 theme-option/ariniothemes.php:133
+#: theme-option/ariniothemes.php:244 theme-option/ariniothemes.php:286
+#: theme-option/ariniothemes.php:486
+msgid "No file chosen"
+msgstr ""
+
+#: theme-option/ariniothemes.php:120 theme-option/ariniothemes.php:134
+#: theme-option/ariniothemes.php:245 theme-option/ariniothemes.php:287
+#: theme-option/ariniothemes.php:487
+msgid "Upload"
+msgstr ""
+
+#: theme-option/ariniothemes.php:122 theme-option/ariniothemes.php:136
+#: theme-option/ariniothemes.php:247 theme-option/ariniothemes.php:289
+#: theme-option/ariniothemes.php:489
+msgid "Remove"
+msgstr ""
+
+#: theme-option/ariniothemes.php:125
+msgid "Upload a logo for your Website."
+msgstr ""
+
+#: theme-option/ariniothemes.php:139
+msgid "Size of fevicon should be exactly 32x32px for best results."
+msgstr ""
+
+#: theme-option/ariniothemes.php:154
+msgid "Blog Heading"
+msgstr ""
+
+#: theme-option/ariniothemes.php:159
+msgid "Enter here Blog Heading to show on front page."
+msgstr ""
+
+#: theme-option/ariniothemes.php:173
+msgid ""
+"Some text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: theme-option/ariniothemes.php:186
+msgid ""
+"add your custom CSS code to your theme by writing the code in this block."
+msgstr ""
+
+#: theme-option/ariniothemes.php:212
+msgid "Slider 1 Title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:217
+msgid "Mention the Slider 1 Title   for Slider"
+msgstr ""
+
+#: theme-option/ariniothemes.php:221
+msgid "Slider 1 SubTitle"
+msgstr ""
+
+#: theme-option/ariniothemes.php:226
+msgid "Mention the Slider 1 SubTitle  for Slider"
+msgstr ""
+
+#: theme-option/ariniothemes.php:230
+msgid "Slider 1 Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:236
+msgid "Mention the Slider 1 Description   for Slider"
+msgstr ""
+
+#: theme-option/ariniothemes.php:240
+msgid "Slider 1 Image"
+msgstr ""
+
+#: theme-option/ariniothemes.php:250 theme-option/ariniothemes.php:292
+msgid "Upload a Image for your Slider."
+msgstr ""
+
+#: theme-option/ariniothemes.php:254
+msgid "Slider 2 Title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:259
+msgid "Mention the Slider 2 Title   for Slider "
+msgstr ""
+
+#: theme-option/ariniothemes.php:263
+msgid "Slider 2 SubTitle"
+msgstr ""
+
+#: theme-option/ariniothemes.php:268
+msgid "Mention the Slider 2 SubTitle  for Slider"
+msgstr ""
+
+#: theme-option/ariniothemes.php:272
+msgid "Slider 2 Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:278
+msgid "Mention the Slider 2 Description   for Slider"
+msgstr ""
+
+#: theme-option/ariniothemes.php:282
+msgid "Slider 2 Image"
+msgstr ""
+
+#: theme-option/ariniothemes.php:344
+msgid "Mention the Service Main Heading text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:348
+msgid "First Icon"
+msgstr ""
+
+#: theme-option/ariniothemes.php:353 theme-option/ariniothemes.php:384
+#: theme-option/ariniothemes.php:413
+msgid ""
+"Enter the CSS class of the icons you want to use on your site like: fa-"
+"desktop or fa-group. You can find a list of icon classes here"
+msgstr ""
+
+#: theme-option/ariniothemes.php:353 theme-option/ariniothemes.php:384
+#: theme-option/ariniothemes.php:413
+msgid "Click here"
+msgstr ""
+
+#: theme-option/ariniothemes.php:357
+msgid "First Title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:362
+msgid "Mention the First Service Title text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:366
+msgid "First Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:372
+msgid "Mention the First Service Description text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:379
+msgid "Second Icon"
+msgstr ""
+
+#: theme-option/ariniothemes.php:388
+msgid "Second Title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:393
+msgid "Mention the Second Service Title text for Service section "
+msgstr ""
+
+#: theme-option/ariniothemes.php:397
+msgid "Second Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:403
+msgid "Mention the Second Service Description text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:408
+msgid "Third Icon"
+msgstr ""
+
+#: theme-option/ariniothemes.php:417
+msgid "Third Title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:422
+msgid "Mention the Third Service Title text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:426
+msgid "Third Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:432
+msgid "Mention the Third Service Description text for Service section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:451
+msgid "About Us Main Heading"
+msgstr ""
+
+#: theme-option/ariniothemes.php:456
+msgid "Mention the About Us Main Heading text for About Us section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:461
+msgid "About Us Description Heading"
+msgstr ""
+
+#: theme-option/ariniothemes.php:466
+msgid "Mention the About Us Description Heading text for About Us section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:471
+msgid "About Us Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:477
+msgid "Mention the About Us Description text for About Us section"
+msgstr ""
+
+#: theme-option/ariniothemes.php:482
+msgid "About Us Header Image"
+msgstr ""
+
+#: theme-option/ariniothemes.php:492
+msgid "Upload here About Us Header Image."
+msgstr ""
+
+#: theme-option/ariniothemes.php:504
+msgid "Contact Main Heading"
+msgstr ""
+
+#: theme-option/ariniothemes.php:509
+msgid "Mention the Contact Main Heading text for Contact section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:513
+msgid "Contact Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:520
+msgid "Mention the Contact Description text for Contact section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:533
+msgid "First widget title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:538 theme-option/ariniothemes.php:561
+#: theme-option/ariniothemes.php:574 theme-option/ariniothemes.php:596
+msgid "Mention the widget title text for footer section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:543
+msgid "First widget Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:549
+msgid "Mention the First widget Description for Footer section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:556
+msgid "Second widget title(Recent Post Footer)"
+msgstr ""
+
+#: theme-option/ariniothemes.php:569
+msgid "Third widget title"
+msgstr ""
+
+#: theme-option/ariniothemes.php:580
+msgid "Third widget Description"
+msgstr ""
+
+#: theme-option/ariniothemes.php:585
+msgid "Mention the Third widget Description for Footer section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:591
+msgid "Fourth widget title (contact details Footer)"
+msgstr ""
+
+#: theme-option/ariniothemes.php:601
+msgid "Address (contact details Footer)"
+msgstr ""
+
+#: theme-option/ariniothemes.php:607
+msgid "Mention the Address for Footer section."
+msgstr ""
+
+#: theme-option/ariniothemes.php:618
+msgid "Save Options"
+msgstr ""
+
+#: theme-option/ariniothemes.php:652
+msgid "_donations"
+msgstr ""
+
+#: theme-option/ariniothemes.php:653
+msgid "LQ7DEYTTUPCLL"
+msgstr ""
+
+#: theme-option/ariniothemes.php:654
+msgid "0"
+msgstr ""
+
+#: theme-option/ariniothemes.php:655
+msgid "USD"
+msgstr ""

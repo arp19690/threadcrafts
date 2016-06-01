@@ -1,0 +1,18 @@
+/*
+Theme Name: Ariwoo
+Theme URI: http://arinio.com/ariwoo-free-responsive-multipurpose-wordpress-theme/
+Author: Arinio Themes
+Author URI: http://arinio.com
+Description:  Ariwoo is a Elegant, Clean Multipurpose Responsive Theme. Built using Bootstrap. You can use it for your business,portfolio, blogging, fitness, GYM, Travels Agencies or any type of site. It has a very easy admin option panel where you change lot of things easily. It also provides you custom Front page and fixed header and it is fully responsive. Its comes with beautiful slider. In this theme you can also use your custom css. also one contact form. This theme made by arinio.com.
+Version: 1.10
+License:  GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, right-sidebar, responsive-layout, custom-background, custom-menu, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, black, flexible-header, full-width-template, light, orange, photoblogging, red, white
+Text Domain: Ariwoo
+License information can be found in the readme.txt file.
+*/
+
+@import url(styles/main.css);
+
+#divFooter li{
+list-style: none;}
