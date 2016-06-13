@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>shipway</id>
+    <version>1.0</version>
+	<name>Shipway Courier Tracking-PRO</name>
+    <priority>1800</priority>
+    <default_language>en</default_language>
+	<settings>
+		<sections>
+            <section id="general">
+                <items>
+                    <item id="shipway_loginid">
+                        <type>input</type>
+						<name>Shipway Login ID</name>                        
+                    </item>
+                    <item id="shipway_licencekey">
+                        <type>input</type>
+						<name>Shipway Licence Key</name>						
+                    </item>                   
+                </items>
+            </section>
+        </sections>
+	</settings>
+</addon>

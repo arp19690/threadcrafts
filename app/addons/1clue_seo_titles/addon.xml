@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+	<id>1clue_seo_titles</id>
+	<name>SEO titles</name>
+	<priority>1000</priority>
+	<status>active</status>
+	<dependencies></dependencies>
+	<description>Increases SEO of your store by configuring dynamic page titles</description>
+	<translations>
+		<item for="name" lang="ru">SEO заголовки страниц</item>
+	</translations>
+	<status>active</status>
+	<settings>
+		 <sections>
+            <section id="general">
+                <name>General</name>
+                <items>
+					<item id="override_product_titles">
+						<name>Override all product titles</name>
+						<type>checkbox</type>
+						<default_value>10</default_value>
+						<tooltip>Tick off the checkbox in case you want to override all product page titles. Otherwise only empty page titles will be overridden</tooltip> 
+						<translations>
+							<item lang="ru">Переопределять все заголовки у продуктов</item>
+						</translations>
+					</item>
+					<item id="product_page_title">
+						<name>Product title pattern</name>
+						<type>textarea</type>
+						<default_value>{category} - {product} for only {price} !!!</default_value>
+						<tooltip><![CDATA[
+							You can use any of the following variables that will be changed automatically when page is loaded <br />
+							<b>{category_path}</b> - categories path separated with "::"<br />
+							<b>{category}</b> - main category of the product<br />
+							<b>{product}</b> - product name<br />
+							<b>{product_code}</b> - code of the product<br />
+							<b>{price}</b> - base product price  ]]> 
+						</tooltip> 
+						<translations>
+							<item lang="ru">Шаблон имени заголовка для страницы продукта</item>
+						</translations>
+					</item>
+					<item id="override_page_titles">
+						<name>Override all content page titles</name>
+						<type>checkbox</type>
+						<default_value>10</default_value>
+						<tooltip>Tick off the checkbox in case you want to override all page titles for pages. Otherwise only empty titles will be overridden</tooltip> 
+						<translations>
+							<item lang="ru">Переопределять все заголовки у страниц контента</item>
+						</translations>
+					</item>
+					<item id="content_page_title">
+						<name>Page title pattern</name>
+						<type>textarea</type>
+						<default_value>{page}</default_value>
+						<tooltip><![CDATA[
+							You can use any of the following variables that will be changed automatically when page is loaded <br />
+							<b>{page}</b> - paget name<br />
+							<b>{parent_page}</b> -  parent page name<br />
+							]]> 
+						</tooltip> 
+						<translations>
+							<item lang="ru">Шаблон имени заголовка для страниц контента</item>
+						</translations>
+					</item>
+				</items>
+			</section>
+		</sections>
+	</settings>
+</addon>

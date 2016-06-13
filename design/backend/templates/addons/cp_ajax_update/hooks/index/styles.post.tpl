@@ -1,0 +1,1 @@
+{style src="addons/cp_ajax_update/styles-addon-icon.less"}

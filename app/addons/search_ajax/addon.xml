@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>search_ajax</id>
+	<name>Search Ajax</name>
+	<description>Add ajax search in the text input</description>
+	<status>active</status>
+    <version>1.0</version>
+    <priority>50</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+</addon>

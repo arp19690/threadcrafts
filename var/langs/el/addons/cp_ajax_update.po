@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: el_GR\n"
+
+msgctxt "Addons::name::cp_ajax_update"
+msgid "Cart-Power: Automatic Cart Recalculate"
+msgstr "Cart-Power: Automatic Cart Recalculate"
+
+msgctxt "Addons::description::cp_ajax_update"
+msgid "Automatic AJAX cart recalculate without having to click the Recalculate button.. Developed by <a target=\"_blank\" href=\"http://cart-power.com/\">Cart-Power</a>"
+msgstr "Automatic AJAX cart recalculate without having to click the Recalculate button.. Developed by <a target=\"_blank\" href=\"http://cart-power.com/\">Cart-Power</a>"
+
+msgctxt "Languages::"
+msgid ""
+msgstr ""
+
+msgctxt "SettingsSections::cp_ajax_update::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::cp_ajax_update::item"
+msgid "Item"
+msgstr "Item"
+
