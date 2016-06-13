@@ -8,6 +8,11 @@ if ( !defined('AREA') ) { die('Access denied'); }
 // Return from payment
 if (defined('PAYMENT_NOTIFICATION')) {
     if ($mode == 'return' && !empty($_REQUEST['merchant_order_id'])) {
+        if (isset($view) === false)
+        {
+            $view = Registry::get('view');
+        }
+
         $view->assign('order_action', __('placing_order'));
         $view->display('views/orders/components/placing_order.tpl');
         fn_flush();
@@ -45,19 +50,31 @@ if (defined('PAYMENT_NOTIFICATION')) {
                     $result = curl_exec($ch);
                     $http_status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 
-                    $array = json_decode($result, true);
 
-                    //close connection
-                    curl_close($ch);
-
-                    //Check success response
-                    if($http_status === 200 and isset($array['error']) === false){
-                        $success = true;    
+                    if($result === false) {
+                        $success = false;
+                        $error = 'Curl error: ' . curl_error($ch);
                     }
                     else {
-                        $error = $array['error']['code'].":".$array['error']['description'];
-                        $success = false;
+                        $response_array = json_decode($result, true);
+                        //Check success response
+                        if($http_status === 200 and isset($response_array['error']) === false){
+                            $success = true;    
+                        }
+                        else {
+                            $success = false;
+
+                            if(!empty($response_array['error']['code'])) {
+                                $error = $response_array['error']['code'].":".$response_array['error']['description'];
+                            }
+                            else {
+                                $error = "RAZORPAY_ERROR:Invalid Response <br/>".$result;
+                            }
+                        }
                     }
+                        
+                    //close connection
+                    curl_close($ch);
                 }
                 catch (Exception $e) {
                     $success = false;
