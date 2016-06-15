@@ -1,7 +1,7 @@
 {capture name="section"}
     {include file="views/orders/components/orders_search_form.tpl"}
 {/capture}
-{include file="common/section.tpl" section_title=__("search_options") section_content=$smarty.capture.section class="ty-search-form"}
+{include file="common/section.tpl" section_title=__("search_options") section_content=$smarty.capture.section class="ty-search-form" collapse=true}
 
 {assign var="c_url" value=$config.current_url|fn_query_remove:"sort_by":"sort_order"}
 {if $search.sort_order == "asc"}
