@@ -3,7 +3,7 @@
     <li class="ty-footer-menu__item"><a href="{"orders.search"|fn_url}">{__("orders")}</a></li>
     <li class="ty-footer-menu__item"><a href="{"profiles.update"|fn_url}">{__("profile_details")}</a></li>
 {else}
-    <li class="ty-footer-menu__item"><a href="{"auth.login_form"|fn_url}" rel="nofollow">{__("sign_in")}</a></li>
-    <li class="ty-footer-menu__item"><a href="{"profiles.add"|fn_url}" rel="nofollow">{__("register")}</a></li>
+    <li class="ty-footer-menu__item"><a href="{"auth.login_form"|fn_url}">{__("sign_in")}</a></li>
+    <li class="ty-footer-menu__item"><a href="{"profiles.add"|fn_url}">{__("register")}</a></li>
 {/if}
 <!--account_info_links_{$block.snapping_id}--></ul>
