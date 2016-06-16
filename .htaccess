@@ -50,6 +50,9 @@ Options -Indexes
 
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
+#RewriteCond %{http_host} ^threadcrafts.in [nc]
+#RewriteRule ^(.*)$ http://www.threadcrafts.in/$1 [r=301,nc]
+
 RewriteCond %{REQUEST_URI} ^api/(.*)$ [or]
 RewriteCond %{REQUEST_URI} .*/api/(.*)$
 RewriteCond %{REQUEST_FILENAME} !-f
