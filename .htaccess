@@ -46,6 +46,7 @@ RewriteEngine on
 # RewriteBase /store/cart
 # RewriteBase /
 Options -MultiViews
+Options -Indexes
 
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
