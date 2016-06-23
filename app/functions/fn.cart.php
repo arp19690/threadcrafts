@@ -6173,7 +6173,7 @@ function fn_order_notification(&$order_info, $edp_data = array(), $force_notific
 
                     Mailer::sendMail(array(
                         'to' => $order_info['email'],
-                        'from' => 'company_orders_department',
+                        'from' => 'default_company_orders_department',
                         'data' => array(
                             'order_info' => $order_info,
                             'edp_data' => $edp_data,
@@ -6824,7 +6824,7 @@ function fn_update_shipment($shipment_data, $shipment_id = 0, $group_key = 0, $a
 
                     Mailer::sendMail(array(
                         'to' => $order_info['email'],
-                        'from' => 'company_orders_department',
+                        'from' => 'default_company_orders_department',
                         'data' => array(
                             'shipment' => $shipment,
                             'order_info' => $order_info,
