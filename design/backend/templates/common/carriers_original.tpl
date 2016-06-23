@@ -4,12 +4,11 @@
 
 <select {if $id}id="{$id}"{/if} name="{$name}" {if $meta}class="{$meta}"{/if}>
     <option value="">--</option>
-   <!--  {hook name="carriers:list"}
+    {hook name="carriers:list"}
     {foreach from=$carriers item="code"}
     	<option value="{$code}" {if $carrier == "{$code}"}{$carrier_name = __("carrier_`$code`")}selected="selected"{/if}>{__("carrier_`$code`")}</option>
     {/foreach}
-    {/hook} -->
-    <option value="CUS" {if $carrier == "{$code}"}{$carrier_name = __("carrier_`$code`")}selected="selected"{/if}>Custom</option>
+    {/hook}
 </select>
 {if $capture}
 {/capture}
