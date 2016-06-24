@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
     <id>shipway</id>
-    <version>1.0</version>
+    <version>1.4</version>
 	<name>Shipway Courier Tracking-PRO</name>
     <priority>1800</priority>
+	<status>active</status>
     <default_language>en</default_language>
 	<settings>
 		<sections>
@@ -21,4 +22,15 @@
             </section>
         </sections>
 	</settings>
+	<queries>
+		<item for="install">
+		CREATE TABLE IF NOT EXISTS `?:shipway_couriers` (
+			`id` int(20) NOT NULL AUTO_INCREMENT,
+			  `name` varchar(100) NOT NULL,
+			  `code` varchar(100) NOT NULL,
+			  `last_updated` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+			  PRIMARY KEY (`id`)
+			)
+		</item>
+	</queries>
 </addon>

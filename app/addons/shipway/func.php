@@ -5,7 +5,9 @@ use Tygh\Navigation\LastView;
 
 if (!defined('BOOTSTRAP')) { die('Access denied'); }
 
-function fn_shipway_create_shipment($shipment_data, $order_info, $group_key, $all_products){
+//function fn_shipway_create_shipment($shipment_data, $order_info, $group_key, $all_products){
+
+function fn_shipway_create_shipment_post($shipment_data, $order_info, $group_key, $all_products, $shipment_id){
 	$login_id 		= Registry::get('addons.shipway.shipway_loginid');
 	$password		= Registry::get('addons.shipway.shipway_licencekey');
 	
@@ -13,7 +15,7 @@ function fn_shipway_create_shipment($shipment_data, $order_info, $group_key, $al
 	$carrier 	= (isset($shipment_data['carrier'])) ? $shipment_data['carrier'] : '';
 	$order_id	= (isset($shipment_data['order_id'])) ? $shipment_data['order_id'] : '';
 	
-	$carrier_id = fn_get_shipway_courier_id($carrier);
+	$carrier_id = db_get_field("SELECT `id` FROM ?:shipway_couriers WHERE `code` = '" . $carrier . "' LIMIT 1 ");
 	$order_info = fn_get_order_info($order_id);
 	
 	$push_order = array();
@@ -56,14 +58,13 @@ function fn_shipway_create_shipment($shipment_data, $order_info, $group_key, $al
 			$company = $company_data['company'];
 		}
 	}
-	//echo "<pre>";print_r($push_order);die;
+
 	$product_name = '';
 	foreach($order_info['products'] as $products){
 		$product_name .= $products['product'].',';
 	}
 
-	
-	if($awbno && $carrier_id && $order_id){
+	if($awbno && $carrier_id && $order_id && $login_id && $password){
 		$data = array(
 				'carrier_id' 	=> $carrier_id,
 				'order_id' 		=> $order_id,
@@ -102,7 +103,8 @@ function fn_track_shipway($order_id){
 		return '<div class="error"> order is not shipped yet.</div>';
 	}
 	$awbno = $tracking_details['tracking_number'];
-	$carrier_id = fn_get_shipway_courier_id( $tracking_details['carrier'] );
+	//$carrier_id = fn_get_shipway_courier_id( $tracking_details['carrier'] );
+	$carrier_id = db_get_field("SELECT `id` FROM ?:shipway_couriers WHERE `code` = '" . $tracking_details['carrier'] . "' LIMIT 1 ");
 	
 	if( !$awbno || ! $carrier_id){
 		return '<div class="error"> Your order is not shipped yet.</div>';
@@ -169,6 +171,7 @@ function fn_push_order($data){
 	curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 		
 	$output = curl_exec($curl);
+
 	$output = json_decode($output);
 	curl_close($curl);
 		
@@ -178,30 +181,10 @@ function fn_push_order($data){
 		fn_set_notification('W', __('warning'),'Tracking number is not pushed to Shipway.');
 	}
 }
-function fn_get_shipway_courier_id($courier_name){
-	$couriers = array(
-		'bluedart'		=> '1',
-		'delhivery'		=> '2',
-		'gati'			=> '3',
-		'gojavas'		=> '4',
-		'fedex'			=> '5',
-		'ecomexpress'	=> '6',
-		'dtdc'			=> '7',
-		'dotzot'		=> '8',
-		'redexpress'	=> '9',
-		'firstflight'	=> '10',		
-		'aramex'		=> '11',
-		'dhl'			=> '12',		
-		'professional'	=> '13',
-	);
-	
-	$courier_name = strtolower( trim( str_replace(' ','',$courier_name ) ) );
-	
-	return (isset($couriers[$courier_name])) ? $couriers[$courier_name] : 0;
-}
-function fn_check_shipway_user(){
-	$login_id 		= Registry::get('addons.shipway.shipway_loginid');
-	$password		= Registry::get('addons.shipway.shipway_licencekey');
+
+function fn_check_shipway_user( $username = '' , $password = ''){
+	$login_id 		= ($username) ? $username : Registry::get('addons.shipway.shipway_loginid');
+	$password		= ($password) ? $password : Registry::get('addons.shipway.shipway_licencekey');
 	
 	$url         = "http://shipway.in/api/authenticateUser";
     $data_string = array(
@@ -227,4 +210,66 @@ function fn_check_shipway_user(){
 		return true;
 	}
 	return false;
+}
+function fn_sync_shipway_carriers(){
+	$login_id 		= Registry::get('addons.shipway.shipway_loginid');
+	$password		= Registry::get('addons.shipway.shipway_licencekey');
+	
+	if(!empty($login_id) && !empty($password)){
+	
+		$url         = "http://shipway.in/api/getcarrier";
+		$data_string = array(
+			"username" => $login_id,
+			"password" => $password
+		);
+		
+		$data_string = json_encode($data_string);
+		$curl        = curl_init();
+		curl_setopt($curl, CURLOPT_HTTPHEADER, array(
+			'Content-Type:application/json'
+		));
+		curl_setopt($curl, CURLOPT_URL, $url);
+		curl_setopt($curl, CURLOPT_POST, true);
+		curl_setopt($curl, CURLOPT_POSTFIELDS, $data_string);
+		curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+		curl_setopt($curl, CURLOPT_FOLLOWLOCATION, 1);
+		curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+		$output = curl_exec($curl);
+
+		curl_close($curl);
+		
+		$output = (array)json_decode($output);
+		
+		if(isset($output['status']) && strtolower( trim( $output['status'] ) ) == 'failed'){
+			return array();
+		}
+		
+		return $output;
+	}
+}
+function fn_update_shipway_carriers(){
+	$last_updated = db_get_field("SELECT TIMESTAMPDIFF(DAY, `last_updated`, NOW()) FROM `?:shipway_couriers` LIMIT 1");
+	if($last_updated >= 1 || $last_updated === ""){
+		$shipway_carriers = fn_sync_shipway_carriers();
+		if(!empty($shipway_carriers)){
+			$query = '';
+			foreach($shipway_carriers as $key => $carrier){
+				$query .= "('" .$key. "','" .'Shipway-'.ucwords($carrier). "','" .str_replace(' ','_',$carrier). "'),";
+			}
+			
+			$query = trim($query,',');
+			if(!empty($query)){
+				db_query("TRUNCATE ?:shipway_couriers");
+				db_query("INSERT INTO ?:shipway_couriers (`id`,`name`,`code`) values ".$query);
+			}
+		}
+	}
+}
+function fn_get_shipway_carriers(){
+	$shipway_carriers = db_get_array("SELECT * FROM ?:shipway_couriers");
+	return $shipway_carriers;
+}
+
+function fn_get_shipway_login_id(){
+	return Registry::get('addons.shipway.shipway_loginid');
 }
