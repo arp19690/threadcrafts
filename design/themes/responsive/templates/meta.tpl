@@ -12,3 +12,4 @@
 {$location_data.custom_html nofilter}
 <meta name="theme-color" content="#1ABC9C"/>
 <!-- <meta name="og:image" content="http://threadcrafts.in/images/logos/2/logo-og-image.png"/> -->
+<meta property="og:image" content="{$config.http_location}{$product.main_pair.icon.image_path}" />
