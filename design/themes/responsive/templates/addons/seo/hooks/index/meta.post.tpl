@@ -1,6 +1,6 @@
 
 {if !$smarty.request|fn_seo_is_indexed_page}
-<meta name="robots" content="noindex{if $settings.Security.secure_storefront == "partial" && 'HTTPS'|defined},nofollow{/if}" />
+{*<meta name="robots" content="noindex{if $settings.Security.secure_storefront == "partial" && 'HTTPS'|defined},nofollow{/if}" />*}
 {else}
 {if $seo_canonical.current}
     <link rel="canonical" href="{$seo_canonical.current}" />
