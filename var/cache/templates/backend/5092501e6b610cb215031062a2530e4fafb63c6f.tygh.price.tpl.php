@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2016-06-24 12:55:42
+<?php /* Smarty version Smarty-3.1.21, created on 2016-06-28 11:08:03
          compiled from "/var/www/html/design/backend/templates/common/price.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1554730524576ce076b79b18-79759361%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:204737997257720d3b4446c8-90337475%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '1554730524576ce076b79b18-79759361',
+  'nocache_hash' => '204737997257720d3b4446c8-90337475',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_576ce076babcf2_50076651',
+  'unifunc' => 'content_57720d3b478327_80200417',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_576ce076babcf2_50076651')) {function content_576ce076babcf2_50076651($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_format_price')) include '/var/www/html/app/functions/smarty_plugins/modifier.format_price.php';
+<?php if ($_valid && !is_callable('content_57720d3b478327_80200417')) {function content_57720d3b478327_80200417($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_format_price')) include '/var/www/html/app/functions/smarty_plugins/modifier.format_price.php';
 ?><?php $_smarty_tpl->_capture_stack[0][] = array("currencies", null, null); ob_start(); ?>
 <?php if ($_smarty_tpl->tpl_vars['settings']->value['General']['alternative_currency']=="use_selected_and_alternative") {
 echo smarty_modifier_format_price($_smarty_tpl->tpl_vars['value']->value,$_smarty_tpl->tpl_vars['currencies']->value[$_smarty_tpl->tpl_vars['primary_currency']->value],$_smarty_tpl->tpl_vars['span_id']->value,$_smarty_tpl->tpl_vars['class']->value,false);
