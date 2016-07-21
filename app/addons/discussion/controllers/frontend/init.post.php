@@ -33,3 +33,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     return;
 }
+
+function fn_get_review_count($object_id,$object_type)
+{
+            global $db_tables;
+            
+            $discussion = fn_get_discussion($object_id, $object_type);
+            
+            if (empty($discussion)) {
+                return false;
+            }
+            return db_get_field("SELECT COUNT(b.post_id) as val FROM ?:discussion_rating as a LEFT JOIN ?:discussion_posts as b ON a.post_id = b.post_id WHERE a.thread_id = ?i and b.status = 'A'", $discussion['thread_id']);                     
+}

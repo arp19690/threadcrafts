@@ -159,3 +159,30 @@
 </div>
 
 {capture name="mainbox_title"}{assign var="details_page" value=true}{/capture}
+
+{assign var="product_amountN" value=$product.inventory_amount|default:$product.amount}
+{assign var="url" value="`$config.current_location`/`$config.current_url`"|fn_url}
+{assign var="average_rating" value=$product.product_id|fn_get_average_rating:"P"}
+{assign var="rev_count" value=$product.product_id|fn_get_review_count:"P"}
+
+<div style="display: none;" itemscope itemtype="http://schema.org/Product">
+<span itemprop="name">{$product.product|unescape}</span>
+     <span itemprop="image">{$config.current_location}{$product.main_pair.detailed.image_path}</span>
+  <img itemprop="image" src="{$config.current_location}{$product.main_pair.detailed.http_image_path}"/>
+     <span itemprop="description"> {$product.full_description}</span>
+     <span itemprop="url">{$url}</span>
+     <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+  <span itemprop="price">{$product.price|format_price:$currencies.$primary_currency:''}</span>
+   <meta itemprop="priceCurrency" content="INR" />
+   {if $product_amountN > 0}
+          <link itemprop="availability" href="http://schema.org/InStock">
+   {else}
+          <link itemprop="availability" href="http://schema.org/OutOfStock">
+   {/if}
+  </span>
+  <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+   <span itemprop="ratingValue">{$average_rating}</span>
+      <span itemprop="bestRating">5</span>
+   <span itemprop="reviewCount">{$rev_count}</span>
+    </div>
+</div>
