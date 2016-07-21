@@ -1,4 +1,5 @@
 DirectoryIndex index.html index.php
+RedirectMatch 404 /\.gitignore
 
 <IfModule mod_deflate.c>
 	# Compress HTML, CSS, JavaScript, Text, XML, fonts
@@ -49,6 +50,8 @@ Options -MultiViews
 Options -Indexes
 
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+Header set X-Frame-Options Deny
+Header always append X-Frame-Options SAMEORIGIN**
 
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
