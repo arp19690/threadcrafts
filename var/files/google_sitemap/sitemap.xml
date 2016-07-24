@@ -5,728 +5,830 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>http://www.threadcrafts.in/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/sarees/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/sarees/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/lehenga/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/lehenga/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/salwar-suits/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/salwar-suits/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/home-decor/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/home-decor/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/men/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/men/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/women/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/women/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/shoes/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/shoes/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/shoes/men/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/shoes/men/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/shoes/women/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/shoes/women/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/micromaxx/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/micromaxx/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/motorola/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/motorola/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/lenovo/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/lenovo/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/sony/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/sony/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/others/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/others/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/back-in-a-flash-pro-h6/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/kids-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/gold-plated-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/back-in-a-flash-pro-h6/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/the-bat-is-here-pro-d820/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/american-patriotism-pro-d820/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/mischief-managed-pro-d826/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/morocco-cities-pro-lgg4/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/iron-man-head-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/big-eyed-batman-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/jon-snow-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/the-north-remembers-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/silence-speaks-when-words-cant-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/bigger-dreams-louder-actions-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/cristiano-ronaldo-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/manchester-united-pro-i5s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/the-avengers-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/joker-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
+        <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/the-bat-is-here-pro-d820/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/the-bat-is-here-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/american-patriotism-pro-d820/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/hulk-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/mischief-managed-pro-d826/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/stuart-minion-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/morocco-cities-pro-lgg4/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/jokers-ghost-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/iron-man-head-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/captain-america-holo-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/big-eyed-batman-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/baby-polka-dots-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/jon-snow-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/zig-zag-multicolor-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/the-north-remembers-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/anchor-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/silence-speaks-when-words-cant-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/space-lion-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/bigger-dreams-louder-actions-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/american-war-cry-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/cristiano-ronaldo-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/nebula-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-5s-se/manchester-united-pro-i5s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/urban-skyline-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/the-avengers-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/stark-winter-is-coming-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/joker-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/big-eyed-hulk-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/the-bat-is-here-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/iron-man-head-pro-i6s/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/hulk-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/cristiano-ronaldo-pro-i6sp/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/stuart-minion-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/manchester-united-pro-i6sp/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/jokers-ghost-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/look-into-my-eyes-pro-i6sp/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/captain-america-holo-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/superman-man-of-steel-pro-n5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/baby-polka-dots-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/adventure-awaits-pro-n5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/zig-zag-multicolor-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/cyan-anchor-pro-n5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/anchor-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/american-patriotism-pro-n5x/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/space-lion-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/got-talk-to-the-hand-pro-n6p/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/american-war-cry-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/american-patriotism-pro-om9p/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/nebula-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/captain-america-hydra-fusion-pro-om9p/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/urban-skyline-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/herry-muppet-pro-az2/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/stark-winter-is-coming-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/cheerful-lion-pro-az2/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/big-eyed-hulk-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/the-bat-is-here-pro-az5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/iron-man-head-pro-i6s/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/micromaxx/american-patriotism-pro-mxu2/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/cristiano-ronaldo-pro-i6sp/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/stuart-minion-pro-sga5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/manchester-united-pro-i6sp/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/scooby-doo-bee-doo-pro-sga5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/iphone/iphone-6-6s-6splus/look-into-my-eyes-pro-i6sp/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/the-flash-pro-sga5/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/superman-man-of-steel-pro-n5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/adventure-awaits-pro-sga7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/adventure-awaits-pro-n5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/manchester-united-pro-sga7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/cyan-anchor-pro-n5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/batman-portrait-pro-sga7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/american-patriotism-pro-n5x/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/batman-superman-silhouette-pro-sga8/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/nexus/got-talk-to-the-hand-pro-n6p/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/abstract-paints-pro-sge7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/american-patriotism-pro-om9p/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/ironman-pro-sgj7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/htc/captain-america-hydra-fusion-pro-om9p/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/chinese-roses-pro-sgj7/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/herry-muppet-pro-az2/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/the-bat-is-here-pro-sgs6/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/cheerful-lion-pro-az2/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/manchester-united-pro-sgs6/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/asus/the-bat-is-here-pro-az5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/man-im-pretty-pro-sgs6e/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/micromaxx/american-patriotism-pro-mxu2/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/the-lorax-pro-xmi3/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/stuart-minion-pro-sga5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/superman-portrait-pro-xmi4i/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/scooby-doo-bee-doo-pro-sga5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/motorola/manchester-united-pro-me2/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/the-flash-pro-sga5/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/lenovo/batman-portrait-pro-la7000/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/adventure-awaits-pro-sga7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/sony/cut-n-paste-collage-pro-sxc3/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/manchester-united-pro-sga7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/arc-reactor-blue-print-pro-op1/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/batman-portrait-pro-sga7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/the-bat-face-pro-op1/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/batman-superman-silhouette-pro-sga8/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/big-eyed-iron-man-pro-op1/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/abstract-paints-pro-sge7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/american-diamond-studded-latkan-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/ironman-pro-sgj7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-triangle-tower-latkan-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/chinese-roses-pro-sgj7/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bell-shaped-latkan-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/the-bat-is-here-pro-sgs6/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/heart-shaped-designer-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/manchester-united-pro-sgs6/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bracelet-style-bhabhi-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/samsung/man-im-pretty-pro-sgs6e/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bracelet-style-bhabhi-rakhi-with-red-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/the-lorax-pro-xmi3/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-and-ganpati-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/xiaomi/superman-portrait-pro-xmi4i/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-saakhya-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/motorola/manchester-united-pro-me2/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-and-peacock-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/lenovo/batman-portrait-pro-la7000/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/sony/cut-n-paste-collage-pro-sxc3/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/arc-reactor-blue-print-pro-op1/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi-with-artifical-flower-and-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/the-bat-face-pro-op1/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi-with-artifical-flowers/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/accessories/mobile-cases-covers/android/oneplus/big-eyed-iron-man-pro-op1/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/kalash-and-saakhya-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/american-diamond-studded-latkan-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/veera-rakhi-with-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-triangle-tower-latkan-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/ruby-and-emerald-rakhi-with-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bell-shaped-latkan-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/kids-rakhi/chota-bheem-and-ganpati-cartoon-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/heart-shaped-designer-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/kids-rakhi/cute-ganpati-cartoon-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bracelet-style-bhabhi-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/kids-rakhi/angry-birds-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/designer-bracelet-style-bhabhi-rakhi-with-red-diamonds/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/doreamon-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/gold-plated-rakhi/gold-plated-ganpati-with-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi-with-artifical-flower-and-american-diamonds/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/gold-plated-rakhi/gold-plated-om-with-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/bhabhi-rakhi/colorful-bhabhi-rakhi-with-artifical-flowers/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/blue-pearl-with-american-diamonds-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-and-ganpati-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/blue-pearls-saakhya-with-american-diamonds/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-saakhya-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/thread-style-rakhi-with-rice-shaped-beads/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-and-peacock-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/beads-style-rakhi-with-rice-shaped/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/silver-coated-rakhi/silver-coated-om-flower-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/kalash-and-saakhya-rakhi/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/colorful-peacock-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/veera-rakhi-with-american-diamonds/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/rudraksh-beads-and-mauli-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/our-special/raksha-bandhan/fancy-rakhi/ruby-and-emerald-rakhi-with-american-diamonds/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/green-velvet-and-beads-rakhi/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/about-us/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/about-us/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/contact-us/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/contact-us/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/low-price-guarantee/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/low-price-guarantee/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/privacy-policy/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/privacy-policy/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/track-order/</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/track-order/</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=2</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=2</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=3</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=3</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=6</loc>
-        <lastmod>2016-07-21</lastmod>
+        <loc>https://www.threadcrafts.in/index.php?dispatch=companies.view&amp;company_id=6</loc>
+        <lastmod>2016-07-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
