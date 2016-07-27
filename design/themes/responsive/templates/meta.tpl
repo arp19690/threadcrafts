@@ -9,13 +9,7 @@
 {/hook}
 <meta name="keywords" content="{$meta_keywords|default:$location_data.meta_keywords}" />
 {/hook}
-{$location_data.custom_html nofilter}
-
-<meta property="og:title" content="Classic Rudraksh Rakhi with American Diamonds - Thread Crafts" />
-<meta property="og:url" content="https://www.threadcrafts.in/our-special/raksha-bandhan/classic-rakhi/classic-rudraksh-rakhi-with-american-diamonds/" />
-<meta property="og:image" content="http://www.threadcrafts.in/images/detailed/2/DSC_0371.JPG" />
-<meta property="og:site_name" content="Threadcrafts Pvt Ltd" />
-    
+{$location_data.custom_html nofilter}    
                                     
 <meta property="og:type" content="website" />
 <meta property="fb:app_id" content="351474381662422"/>
