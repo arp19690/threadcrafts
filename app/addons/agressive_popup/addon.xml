@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+    <id>agressive_popup</id>
+    <name>Agressive popup</name>
+    <description>Display pop-up notification on home, product, category pages.<![CDATA[ Developed by <a target="_blank" href="http://cart-power.com/">Cart-Power</a>]]></description>
+    <version>1.0</version>
+    <priority>5700</priority>
+    <position>200</position>
+    <status>active</status>
+    <dependencies/>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <settings edition_type="ROOT">
+    </settings>
+    <queries>
+			<item for="install">
+				CREATE TABLE IF NOT EXISTS `?:agressive_popups` 
+				(
+					`id` mediumint(8) NOT NULL AUTO_INCREMENT,
+					`description` TEXT NOT NULL,
+					`title` TEXT NOT NULL,
+					`popup_width` int(5) NOT NULL,
+					`popup_height` int(5) NOT NULL,
+					`time_to_show` int(5) NOT NULL,
+					`time_to_live` int(5) NOT NULL,
+					`show_popup` varchar(1) NOT NULL,
+					`lang_code` char(2) NOT NULL DEFAULT '',
+					PRIMARY KEY (`id`, `lang_code`)
+				) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+			</item>
+			<item for="install">
+				CREATE TABLE IF NOT EXISTS `?:agressive_popups_products` 
+				(
+					`id` mediumint(8) NOT NULL AUTO_INCREMENT,
+					`product_id` mediumint(8) NOT NULL,
+					`description` TEXT NOT NULL,
+					`title` TEXT NOT NULL,
+					`popup_width` int(5) NOT NULL,
+					`popup_height` int(5) NOT NULL,
+					`time_to_show` int(5) NOT NULL,
+					`time_to_live` int(5) NOT NULL,
+					`show_popup` varchar(1) NOT NULL,
+					`lang_code` char(2) NOT NULL DEFAULT '',
+					PRIMARY KEY (`id`, `lang_code`)
+				) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+			</item>
+			<item for="install">
+				CREATE TABLE IF NOT EXISTS `?:agressive_popups_categories` 
+				(
+					`id` mediumint(8) NOT NULL AUTO_INCREMENT,
+					`category_id` mediumint(8) NOT NULL,
+					`description` TEXT NOT NULL,
+					`title` TEXT NOT NULL,
+					`popup_width` int(5) NOT NULL,
+					`popup_height` int(5) NOT NULL,
+					`time_to_show` int(5) NOT NULL,
+					`time_to_live` int(5) NOT NULL,
+					`show_popup` varchar(1) NOT NULL,
+					`lang_code` char(2) NOT NULL DEFAULT '',
+					PRIMARY KEY (`id`, `lang_code`)
+				) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+			</item>
+    </queries>
+		
+    <language_variables>
+			<item lang="en" id="agressive_popup">Agressive popup</item>
+			<item lang="en" id="home_page_popup">Home page popup</item>
+			<item lang="en" id="popup_width">Popup width</item>
+			<item lang="en" id="popup_height">Popup height</item>
+			<item lang="en" id="show_popup">Show popup</item>
+			<item lang="en" id="time_to_show">Time to show</item>
+			<item lang="en" id="time_to_live">Time to live</item>
+			<item lang="en" id="in_seconds">in seconds</item>
+			<item lang="en" id="in_days">in days</item>
+			<item lang="en" id="popup_title">Popup title</item>
+			<item lang="en" id="show_delay">Show delay</item>
+    </language_variables>
+		
+</addon>
