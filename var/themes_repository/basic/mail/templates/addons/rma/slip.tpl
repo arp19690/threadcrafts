@@ -32,7 +32,7 @@ body, .main-table {
         <tr>
             <td style="background-color: #ffffff; border: 1px solid #e6e6e6; margin: 0px auto; padding: 0px 40px 40px 40px; width: 510px;" align="left">
                 <h1 style="text-align: right; font: bold 26px Arial; text-transform: uppercase; border-bottom: 1px solid #868686; padding: 10px 0px 8px 0px; margin-bottom: 0px;">
-                    <div style="float: left;"><img src="{$logos.mail.image.image_path}" width="{$logos.mail.image.image_x}" height="{$logos.mail.image.image_y}" border="0" alt="{$logos.mail.image.alt}" /></div>
+                    <div style="float: left;"><img src="{$logos.mail.image.image_path}" width="150" border="0" alt="{$logos.mail.image.alt}" style="max-width:150px;"/></div>
                     {__("packing_slip")}
                 </h1>
             
